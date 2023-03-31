@@ -1,0 +1,140 @@
+.contenedor{
+display: grid;
+grid-template-columns: 80% 20%;
+
+}
+
+.Barra{
+
+    display: flex;
+}
+
+.atajosBarra{
+    margin-top: 2%;
+    margin-left: 40%;
+
+}
+
+.atajosBarra{
+
+
+}
+
+.Relleno{
+
+    display: grid;
+    grid-template-columns: 40% 60%;
+
+}
+
+.imagencitas{
+
+    margin-left: 20%;
+       
+}
+
+.imagen1{
+    display: flex;
+    
+
+}
+
+.imagen1 > img{
+
+    width: 25%;
+    height: 25%;
+    margin-bottom: 10%;
+    margin-right: 5%;   
+}
+.imagen1 > p{
+    width: 100%;
+}
+
+.Relleno2{
+
+    width: 100%;
+    height: 50%;
+}
+
+.Relleno2 > img{
+
+    width: 100%;
+    height: 60%;
+}
+
+.contenedor2{
+
+    display: grid;
+    grid-template-columns: 20% 80%;
+    margin-top: -20%;
+}
+
+.contenedor3{
+
+    width: 100%;
+    height: 50%;
+    margin-left: 1%;
+
+}
+
+.contenedor3 > img{
+
+    width: 98%;
+    height: 100%;
+
+}
+
+.lado-Derecho{
+
+    margin: 15%;
+}
+
+.links{
+
+    display: flex;
+    flex-direction: column;
+}
+
+.links > a{
+
+    margin-top: 5%;
+    text-decoration: none;
+}
+
+.cir1 {
+    height: 50px;
+    width: 50px;
+    background-color: #070856;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.cir2 {
+    height: 50px;
+    width: 50px;
+    background-color: #FF9583;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.cir3 {
+    height: 50px;
+    width: 50px;
+    background-color: #414141;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.cir4 {
+    height: 50px;
+    width: 50px;
+    background-color: #888888;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.circulo{
+    display: flex;
+    margin-top: 10%;
+}
+
